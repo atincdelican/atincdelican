@@ -1,16 +1,14 @@
-## Hi there 👋
+## Atinc Delican
 
-<!--
-**atincdelican/atincdelican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI and IT professional focused on applied AI systems, automation, and technical project development.
 
-Here are some ideas to get you started:
+## Current Focus
+- AI-related technology projects
+- Private IT project development
+- Technical portfolio and professional visibility
+- Web development projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- LinkedIn: Coming Soon
+- Website: Coming Soon
+- Email: atinc.delican@gmail.com
